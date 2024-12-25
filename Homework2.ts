@@ -2,7 +2,7 @@
 let lengthRectangle: number = 5 // rectangle length
 let widthRectangle: number = 4 // rectangle width
 let areaRectangle: number = lengthRectangle * widthRectangle // calculate area
-console.log('Area of recrangle is: ' + areaRectangle)
+console.log('Area of rectangle is: ' + areaRectangle)
 
 //Task 2: Body mass index (BMI) calculation:
 let weight: number = 94 // weight in kilograms
